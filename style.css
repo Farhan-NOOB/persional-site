@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: opx;
+}
+.name{
+color: rgb(209, 40, 167);
+}
+.top-back{
+    background-image: url(top-bg.png);
+    background-repeat: no-repeat;
+}
+.half-width{
+    width:35%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
